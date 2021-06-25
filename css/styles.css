@@ -205,6 +205,10 @@
         width: 90%;
     }
     .footer{
+        padding: 21px;
+        justify-content: center;
+    }
+    #left_footer{
         display: none;
     }
 }
